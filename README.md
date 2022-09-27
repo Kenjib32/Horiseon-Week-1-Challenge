@@ -15,7 +15,7 @@ On-the-job ticket to refactor the client's page to improve accessibility to incr
 ![Horiseon Page Screen Shot](assets/Screen%20Shot%20Horiseon%20Page.png)
 ## Changes Made
 
-* Fixed semantic HTML tags/elements accordingly (i.e. header, nav, main, section, aside, div, footer)
+* Fixed semantic HTML tags/elements accordingly (i.e. header, nav, main, section, aside, footer)
 
 * CSS selectors and properties were consolidated.
 
